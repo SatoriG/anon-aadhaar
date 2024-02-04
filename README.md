@@ -5,7 +5,7 @@
 Anon Aadhaar is a protocol that let users anonymously prove their Aadhaar identity, in a very fast and simple way.
 The core of the procotocol is the circuits, but we also provide a SDK to let any app use our protocol
 
-## 📦 Packages
+# 📦 Packages
 
 - [anon-aadhaar-pcd](packages/anon-aadhaar-pcd/)
 - [anon-aadhaar-react](packages/anon-aadhaar-react/)
